@@ -50,7 +50,7 @@ int main() {
 
 ## Output:
 
-![Uploading image.png…]()
+<img width="1847" height="693" alt="image" src="https://github.com/user-attachments/assets/79c8ba6a-25a2-4297-9c36-3a031df76e15" />
 
 
 ## Result:
